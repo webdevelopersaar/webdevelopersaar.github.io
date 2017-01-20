@@ -1,14 +1,46 @@
-### Welcome to GitHub Pages.
-This automatic page generator is the easiest way to create beautiful pages for all of your projects. Author your page content here [using GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/), select a template crafted by a designer, and publish. After your page is generated, you can check out the new `gh-pages` branch locally. If you’re using GitHub Desktop, simply sync your repository and you’ll see the new branch.
+### Was ist der Webdeveloper Stammtisch?
+Der Webdeveloperstammtisch Saar ist ein bisher loses Treffen von Webentwicklern unterschiedlicher Systeme/Frameworks/Arbeitgeber oder Kenntnisse zum Austausch über Themen, die uns wichtig vorkommen.
 
-### Designer Templates
-We’ve crafted some handsome templates for you to use. Go ahead and click 'Continue to layouts' to browse through them. You can easily go back to edit your page before publishing. After publishing your page, you can revisit the page generator and switch to another theme. Your Page content will be preserved.
+### Wer sind wir?
+Unter den regelmäßigen Teilnehmern sind Entwickler und Interessierte, die im Umfeld Wordpress, Typo3, Magento, Shopware, Laravel, CSS/Frontend und SEO aktiv sind.
 
-### Creating pages manually
+### Was machen wir?
 If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
 
-### Authors and Contributors
-You can @mention a GitHub username to generate a link to their profile. The resulting `<a>` element will link to the contributor’s GitHub Profile. For example: In 2007, Chris Wanstrath (@defunkt), PJ Hyett (@pjhyett), and Tom Preston-Werner (@mojombo) founded GitHub.
+### Wann und wo?
+Wir treffen uns jeden ersten Donnerstag ab 18 Uhr in unterschiedlichen Locations. Wir haben diverse Hosts wie z.b. FBO, Madco, IMA, Statement, Moltomedia, die uns netter Weise ihre Besprechungsräume zur Verfügung stellen.
 
-### Support or Contact
-Having trouble with Pages? Check out our [documentation](https://help.github.com/pages) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Nächste Termine und Themen:
+
+- 02.Februar
+
+```
+CSS Grids mit und von Rolf
+```
+    
+- 02.März
+
+```
+“Social Media” mit Projekt Pinata
+```
+    
+- 06.April
+
+```
+
+```
+
+- 04.Mai
+
+```
+
+```
+
+### Wie kann ich teilnehmen?
+
+- Facebook-Gruppe
+- Slack-Channel nutzen
+- zum nächsten Termin kommen
+
+### Kontakt
+Zwecks Fragen/Interesse könnt ihr euch gerne an @kkrieger85 oder @Horttcore wenden.
