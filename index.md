@@ -2,7 +2,7 @@
 Der Webdeveloperstammtisch Saar ist ein bisher loses Treffen von Webentwicklern unterschiedlicher Systeme/Frameworks/Arbeitgeber oder Kenntnisse zum Austausch über Themen, die uns wichtig vorkommen.
 
 ### Wer sind wir?
-Unter den regelmäßigen Teilnehmern sind Entwickler und Interessierte, die im Umfeld Wordpress, Typo3, Magento, Shopware, Laravel, CSS/Frontend und SEO aktiv sind.
+Unter den regelmäßigen Teilnehmern sind Entwickler und Interessierte, die im Umfeld Wordpress, TYPO3 CMS, Magento, Shopware, Laravel, CSS/Frontend und SEO aktiv sind.
 
 ### Was machen wir?
 If you prefer to not use the automatic generator, push a branch named `gh-pages` to your repository to create a page manually. In addition to supporting regular HTML content, GitHub Pages support Jekyll, a simple, blog aware static site generator. Jekyll makes it easy to create site-wide headers and footers without having to copy them across every page. It also offers intelligent blog support and other advanced templating features.
@@ -17,13 +17,13 @@ Wir treffen uns jeden ersten Donnerstag ab 18 Uhr in unterschiedlichen Locations
 ```
 CSS Grids mit und von Rolf
 ```
-    
+
 - 02.März
 
 ```
 “Social Media” mit Projekt Pinata
 ```
-    
+
 - 06.April
 
 ```
